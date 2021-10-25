@@ -1,0 +1,8 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+
+önce sayıları sıralayalım:
+[0,1,2,3,4,5,6,7,8,9]
+
+Root; 5'tir. Sağında 6i solunda 4 bulunur.
+0'a ulaşmak istersek 4'ten devam ederiz.9'a ulaşmak istersek 6'dan devam ederiz.
+ 
